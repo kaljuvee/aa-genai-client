@@ -1,0 +1,32 @@
+{
+  "apc-j140-bin-005c": {
+    "doc_type": "pdf",
+    "document": "ENGLISH-APC-J140_BIN_005C.pdf",
+    "prompt_name": "apc-j140-bin-005c",
+    "index_name": "sishen-jig-separator-tertiary-crushing-pwo"
+    },
+  "apc-j141-lic-002-004c": {
+    "doc_type": "pdf",
+    "document": "ENGLISH-APC-J141_LIC_002_004C.pdf",
+    "prompt_name": "apc-j141-lic-002-004c",
+    "index_name": "sishen-jig-separator-tertiary-crushing-pwo"
+  },
+  "apc-j141-lic-005c": {
+    "doc_type": "pdf",
+    "document": "ENGLISH-APC-J141_LIC_005C.pdf",
+    "prompt_name": "apc-j141-lic-005c",
+    "index_name": "sishen-jig-separator-tertiary-crushing-pwo"
+  },
+  "pwo-sep-t-crushing-pwo": {
+    "doc_type": "pdf",
+    "document": "ENGLISH-PWO-SEP_T-CRUSHING.pdf",
+    "prompt_name": "sishen-jig-separator-tertiary-crushing",
+    "index_name": "sishen-jig-separator-tertiary-crushing-pwo"
+  },
+  "sis-jig-t-crushing-pwo-gain-map": {
+    "doc_type": "xlsx",
+    "document": "SIS-JIG T-Crushing PWO gain map.xlsx",
+    "prompt_name": "sis-jig-t-crushing-pwo-gain-map",
+    "index_name": "sis-jig-t-crushing-pwo-gain-map"
+  }
+}
